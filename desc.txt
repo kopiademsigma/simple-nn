@@ -1,0 +1,29 @@
+Instruksi Tugas
+
+Gunakan data berikut https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+
+1. Desain sebuah arsitektur neural network yang paling sesuai untuk permasalahan di atas. Arsitektur paling tidak terdiri dari 3 layer, 
+input, hidden dan output layer.
+
+2. Pilih Activation function dan Loss Function yang paling sesuai 
+
+3. Buat Python Function (from scratch) untuk 
+- Activation Function
+- Loss Function (untuk Loss function gunakan MAE dan MSE)
+- Melakukan Forward Pass
+- Melakukan Backward Pass
+- Gradient Descent Algorithm
+- Melakukan Backpropagation/training, dengan stochastic, batch dan minibatch 
+- Melakukan testing dengan MAE dan MSE
+
+4. Data dibagi menjadi training dan test dengan proporsi 80:20 (boleh menggunakan scikit learn)
+5. Bandingkan hasil MAE dan MSE dari masing-masing experiment dalam bentuk tabel
+Kombinasi dalam training: 
+- Loss function MAE dan MSE
+- Gradient Descent dengan stochastic, batch dan minibatch 
+6. Learning rate, maximum epoch, neuron size, weight initialization bisa disesuaikan.
+
+    • Link Colab/Kaggle/github  sudah di running
+    • Laporan/Report  analisis dan result (berupa tabel)  hanya 1 halaman
+    • Yang dikumpulkan melalui Elok  ile laporan dalam format pdf
+    • Waktu pengerjaan: 2 minggu (18 September 2024 pukul 24.00)
